@@ -42,8 +42,8 @@ The model successfully predicts whether a customer is likely to purchase a produ
 ---
 
 ## 📌 Project Links
-- 📓 Jupyter Notebook: (Add your notebook link here)
-- 📂 Dataset: (Add dataset source link here)
+- 📓 Jupyter Notebook: ((https://github.com/MadhuSingroha/SCT_DS_3/blob/main/SkillCraft%20Task%203.ipynb))
+- 📂 Dataset: (https://archive.ics.uci.edu/dataset/222/bank+marketing)
 
 ---
 
